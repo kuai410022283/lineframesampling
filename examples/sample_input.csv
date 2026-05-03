@@ -1,0 +1,3 @@
+name,ez_sys_geom,remark
+demo_line_1,"LINESTRING(121.5000 38.9000, 121.5500 38.9500, 121.6000 39.0000)",basic sample
+demo_line_2,"LINESTRING(121.7000 39.0000, 121.7300 39.0300, 121.7600 39.0200)",for circle test
