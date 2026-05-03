@@ -136,8 +136,7 @@ go run . -t
 
 ## 📞 联系与支持
 
-- **开发者**：刘亮
-- **QQ 群/个人**：806666754
+- **QQ**：806666754
 - **官方主站**：[laokhome.cn](https://laokhome.cn)
 - **Email**：kuai410022283@qq.com
 
@@ -148,4 +147,4 @@ go run . -t
 
 ## License
 
-MIT
+Apache License
